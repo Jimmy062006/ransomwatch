@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`agenilsen.no`](https://google.com/search?q=agenilsen.no) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-19 | [`agapemeanslove.org`](https://google.com/search?q=agapemeanslove.org) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-19 | [`advantecmfs.com`](https://google.com/search?q=advantecmfs.com) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-19 | [`accenture.com`](https://google.com/search?q=accenture.com) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-05 | [`OFW Law`](https://google.com/search?q=OFW+Law) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-05 | [`Dash Business`](https://google.com/search?q=Dash+Business) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
 | 2025-02-05 | [`Hall Chadwick`](https://google.com/search?q=Hall+Chadwick) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
-| 2025-02-05 | [`NESCTC Security Services`](https://google.com/search?q=NESCTC+Security+Services) | [bianlian](https://ransomwatch.telemetry.ltd/#/profiles?id=bianlian) |
