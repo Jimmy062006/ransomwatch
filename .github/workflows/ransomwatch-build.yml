@@ -9,7 +9,7 @@ on:
 jobs:
   push-to-github-cr:
     name: push image to github container registry
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     steps:
       - name: checkout the repo
         uses: actions/checkout@v2
