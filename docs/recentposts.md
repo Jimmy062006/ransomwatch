@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`abcp.org.br`](https://google.com/search?q=abcp.org.br) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-19 | [`a-r-s.com`](https://google.com/search?q=a-r-s.com) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-19 | [`7generations.org`](https://google.com/search?q=7generations.org) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-19 | [`2easy.com.br`](https://google.com/search?q=2easy.com.br) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-05 | [`annegrady.org`](https://google.com/search?q=annegrady.org) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-05 | [`Mid-State Machine & Fabricating Corp`](https://google.com/search?q=Mid-State+Machine+%26+Fabricating+Corp) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-05 | [`Toshapp.com`](https://google.com/search?q=Toshapp.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-05 | [`A2b-cargo.com`](https://google.com/search?q=A2b-cargo.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
