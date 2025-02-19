@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-19 | [`7generations.org`](https://google.com/search?q=7generations.org) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-19 | [`2easy.com.br`](https://google.com/search?q=2easy.com.br) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-18 | [`uniekinc.com\$37.5M\USA\1.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=uniekinc.com%5C%2437.5M%5CUSA%5C1.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-18 | [`midwayimporting.com\$43.7M\USA\915GB\&lt;1% DISCLOSED`](https://google.com/search?q=midwayimporting.com%5C%2443.7M%5CUSA%5C915GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-05 | [`Toshapp.com`](https://google.com/search?q=Toshapp.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-05 | [`A2b-cargo.com`](https://google.com/search?q=A2b-cargo.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-04 | [`Medical Reports`](https://google.com/search?q=Medical+Reports) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
-| 2025-02-04 | [`Casper&#39;s Truck Equipment`](https://google.com/search?q=Casper%26%2339%3Bs+Truck+Equipment) | [kairos](https://ransomwatch.telemetry.ltd/#/profiles?id=kairos) |
