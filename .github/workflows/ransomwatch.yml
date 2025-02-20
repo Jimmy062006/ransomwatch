@@ -10,7 +10,7 @@ on:
 
 jobs:
   torsocks-job:
-    runs-on: self-hosted
+    runs-on: ubuntu-latest
     timeout-minutes: 90
     services:
       torproxy:
