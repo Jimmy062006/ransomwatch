@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-20 | [`aludesign.ro`](https://google.com/search?q=aludesign.ro) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-20 | [`alta-electronics.com`](https://google.com/search?q=alta-electronics.com) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-20 | [`alliancesand.com`](https://google.com/search?q=alliancesand.com) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
 | 2025-02-20 | [`alderking.com`](https://google.com/search?q=alderking.com) | [lockbit3_fs](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3_fs) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-06 | [`Robertshaw`](https://google.com/search?q=Robertshaw) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
 | 2025-02-06 | [`Lexington Electric `](https://google.com/search?q=Lexington+Electric+) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-06 | [`Gitlabs: eConceptions, Top Systems, DIEM`](https://google.com/search?q=Gitlabs%3A+eConceptions%2C+Top+Systems%2C+DIEM) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-06 | [`SmithDunn&amp;Co`](https://google.com/search?q=SmithDunn%26amp%3BCo) | [spacebears](https://ransomwatch.telemetry.ltd/#/profiles?id=spacebears) |
