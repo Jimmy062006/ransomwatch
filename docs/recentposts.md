@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-21 | [`www.saracenproperties.com`](https://google.com/search?q=www.saracenproperties.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`www.phdental.com`](https://google.com/search?q=www.phdental.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`www.okddsi.net`](https://google.com/search?q=www.okddsi.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`ehdd.com`](https://google.com/search?q=ehdd.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-09 | [`Israel Police Hacked`](https://google.com/search?q=Israel+Police+Hacked) | [handala](https://ransomwatch.telemetry.ltd/#/profiles?id=handala) |
 | 2025-02-08 | [`R******e.tw`](https://google.com/search?q=R%2A%2A%2A%2A%2A%2Ae.tw) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
 | 2025-02-08 | [`SAKAI SOUKEN Co.`](https://google.com/search?q=SAKAI+SOUKEN+Co.) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-08 | [`G*********7.com`](https://google.com/search?q=G%2A%2A%2A%2A%2A%2A%2A%2A%2A7.com) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
