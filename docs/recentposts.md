@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-22 | [`teamsters175.org`](https://google.com/search?q=teamsters175.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-22 | [`www.electro-fusion.com`](https://google.com/search?q=www.electro-fusion.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-22 | [`www.midwestvascular.net`](https://google.com/search?q=www.midwestvascular.net) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-21 | [`www.witheyaddison.com`](https://google.com/search?q=www.witheyaddison.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-10 | [`WhoHire`](https://google.com/search?q=WhoHire) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-10 | [`Capital Cell Global (CCG)`](https://google.com/search?q=Capital+Cell+Global+%28CCG%29) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-10 | [`ASRAM Medical College and Hospita`](https://google.com/search?q=ASRAM+Medical+College+and+Hospita) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-10 | [`Albright Institute`](https://google.com/search?q=Albright+Institute) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
