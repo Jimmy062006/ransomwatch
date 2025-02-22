@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-22 | [`www.elecgalapagos.com.ec`](https://google.com/search?q=www.elecgalapagos.com.ec) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-22 | [`guadeloupeformation.com`](https://google.com/search?q=guadeloupeformation.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-22 | [`teamsters175.org`](https://google.com/search?q=teamsters175.org) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-22 | [`www.electro-fusion.com`](https://google.com/search?q=www.electro-fusion.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-10 | [`Lexington Electric`](https://google.com/search?q=Lexington+Electric) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-10 | [`Marshall Motor Holdings`](https://google.com/search?q=Marshall+Motor+Holdings) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-10 | [`WhoHire`](https://google.com/search?q=WhoHire) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
-| 2025-02-10 | [`Capital Cell Global (CCG)`](https://google.com/search?q=Capital+Cell+Global+%28CCG%29) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
