@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-23 | [`G&amp`](https://google.com/search?q=G%26amp) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`NimuSoft`](https://google.com/search?q=NimuSoft) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`DR.Claims FL LLC`](https://google.com/search?q=DR.Claims+FL+LLC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`EzyLegal`](https://google.com/search?q=EzyLegal) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-11 | [`TMC`](https://google.com/search?q=TMC) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-11 | [`sole technology`](https://google.com/search?q=sole+technology) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
 | 2025-02-11 | [`primesourcestaffing.com`](https://google.com/search?q=primesourcestaffing.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
-| 2025-02-11 | [`The Children's Center Of Hamden`](https://google.com/search?q=The+Children%27s+Center+Of+Hamden) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
