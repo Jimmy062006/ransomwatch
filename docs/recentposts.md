@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-24 | [`Shaghalni`](https://google.com/search?q=Shaghalni) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`BluAgent Technologies, Inc`](https://google.com/search?q=BluAgent+Technologies%2C+Inc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`www.famcomachine.com`](https://google.com/search?q=www.famcomachine.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-23 | [`Novi Community School District`](https://google.com/search?q=Novi+Community+School+District) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-11 | [`sehma.com`](https://google.com/search?q=sehma.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-02-11 | [`The University of Notre Dame Australia (nd.edu.au)`](https://google.com/search?q=The+University+of+Notre+Dame+Australia+%28nd.edu.au%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-11 | [`Rogers`](https://google.com/search?q=Rogers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
-| 2025-02-11 | [`Hammond Trucking & Excavation`](https://google.com/search?q=Hammond+Trucking+%26+Excavation) | [rhysida](https://ransomwatch.telemetry.ltd/#/profiles?id=rhysida) |
