@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-24 | [`Brolly`](https://google.com/search?q=Brolly) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-24 | [`Shaghalni`](https://google.com/search?q=Shaghalni) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`BluAgent Technologies, Inc`](https://google.com/search?q=BluAgent+Technologies%2C+Inc) | [killsecurity](https://ransomwatch.telemetry.ltd/#/profiles?id=killsecurity) |
 | 2025-02-23 | [`www.famcomachine.com`](https://google.com/search?q=www.famcomachine.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-11 | [`Saint George&#39;s College (saintgeorge.cl)`](https://google.com/search?q=Saint+George%26%2339%3Bs+College+%28saintgeorge.cl%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-11 | [`sehma.com`](https://google.com/search?q=sehma.com) | [threeam](https://ransomwatch.telemetry.ltd/#/profiles?id=threeam) |
 | 2025-02-11 | [`The University of Notre Dame Australia (nd.edu.au)`](https://google.com/search?q=The+University+of+Notre+Dame+Australia+%28nd.edu.au%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
-| 2025-02-11 | [`Rogers`](https://google.com/search?q=Rogers) | [hunters](https://ransomwatch.telemetry.ltd/#/profiles?id=hunters) |
