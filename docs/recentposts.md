@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-24 | [`everelgroup.com\$259M\Italy\440GB\&lt;1% DISCLOSED`](https://google.com/search?q=everelgroup.com%5C%24259M%5CItaly%5C440GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-24 | [`regulvar.com\$253.5M\Canada\3.6TB\&lt;1% DISCLOSED`](https://google.com/search?q=regulvar.com%5C%24253.5M%5CCanada%5C3.6TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-24 | [`[EVIDENCE] Aishu, Eshoo`](https://google.com/search?q=%5BEVIDENCE%5D+Aishu%2C+Eshoo) | [ransomhouse](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhouse) |
 | 2025-02-24 | [`Haggin Oaks Golf (hagginoaks.com)`](https://google.com/search?q=Haggin+Oaks+Golf+%28hagginoaks.com%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-11 | [`Kensington Glass Arts`](https://google.com/search?q=Kensington+Glass+Arts) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`Jildor Shoes`](https://google.com/search?q=Jildor+Shoes) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-11 | [`Fastighetsservice AB`](https://google.com/search?q=Fastighetsservice+AB) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
-| 2025-02-11 | [`EAC Consulting`](https://google.com/search?q=EAC+Consulting) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
