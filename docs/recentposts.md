@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`unila.edu.mx`](https://google.com/search?q=unila.edu.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-25 | [`ossc.mx`](https://google.com/search?q=ossc.mx) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-25 | [`essenzamovies.com.br`](https://google.com/search?q=essenzamovies.com.br) | [lockbit3](https://ransomwatch.telemetry.ltd/#/profiles?id=lockbit3) |
 | 2025-02-25 | [`tequaly.com`](https://google.com/search?q=tequaly.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-12 | [`britannicahome.com\$20.6M\USA\2.8TB\&lt;1% DISCLOSED`](https://google.com/search?q=britannicahome.com%5C%2420.6M%5CUSA%5C2.8TB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-12 | [`uniquehd.com\$13.7M\USA\429GB\&lt;1% DISCLOSED`](https://google.com/search?q=uniquehd.com%5C%2413.7M%5CUSA%5C429GB%5C%26lt%3B1%25+DISCLOSED) | [cactus](https://ransomwatch.telemetry.ltd/#/profiles?id=cactus) |
 | 2025-02-12 | [`Omni Fiber LLC`](https://google.com/search?q=Omni+Fiber+LLC) | [monti](https://ransomwatch.telemetry.ltd/#/profiles?id=monti) |
-| 2025-02-12 | [`Societatea Energetica Electrica S.A.`](https://google.com/search?q=Societatea+Energetica+Electrica+S.A.) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
