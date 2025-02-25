@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-25 | [`tequaly.com`](https://google.com/search?q=tequaly.com) | [embargo](https://ransomwatch.telemetry.ltd/#/profiles?id=embargo) |
 | 2025-02-25 | [`neatem.fr - Update!`](https://google.com/search?q=neatem.fr+-+Update%21) | [braincipher](https://ransomwatch.telemetry.ltd/#/profiles?id=braincipher) |
 | 2025-02-25 | [`denbyco.co.uk`](https://google.com/search?q=denbyco.co.uk) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-25 | [`compactmould.com`](https://google.com/search?q=compactmould.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-12 | [`Societatea Energetica Electrica S.A.`](https://google.com/search?q=Societatea+Energetica+Electrica+S.A.) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
 | 2025-02-12 | [`MICRO MANUFACTRING`](https://google.com/search?q=MICRO+MANUFACTRING) | [ransomblog_noname](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomblog_noname) |
 | 2025-02-11 | [`CESI`](https://google.com/search?q=CESI) | [termite](https://ransomwatch.telemetry.ltd/#/profiles?id=termite) |
-| 2025-02-11 | [`Tie Down Engineering`](https://google.com/search?q=Tie+Down+Engineering) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
