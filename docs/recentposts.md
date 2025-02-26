@@ -4,6 +4,7 @@ _last `200` posts_
 
 | date | title | group |
 |---|---|---|
+| 2025-02-26 | [`megamtls.com`](https://google.com/search?q=megamtls.com) | [incransom](https://ransomwatch.telemetry.ltd/#/profiles?id=incransom) |
 | 2025-02-26 | [`Radco Industries`](https://google.com/search?q=Radco+Industries) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`Island Realty`](https://google.com/search?q=Island+Realty) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
 | 2025-02-26 | [`First Federal Savings & Loan`](https://google.com/search?q=First+Federal+Savings+%26+Loan) | [play](https://ransomwatch.telemetry.ltd/#/profiles?id=play) |
@@ -203,4 +204,3 @@ _last `200` posts_
 | 2025-02-12 | [`twncomm.com`](https://google.com/search?q=twncomm.com) | [ransomhub](https://ransomwatch.telemetry.ltd/#/profiles?id=ransomhub) |
 | 2025-02-12 | [`Hess (hess-gmbh.de)`](https://google.com/search?q=Hess+%28hess-gmbh.de%29) | [FOG](https://ransomwatch.telemetry.ltd/#/profiles?id=FOG) |
 | 2025-02-12 | [`E*******s.gov.zm`](https://google.com/search?q=E%2A%2A%2A%2A%2A%2A%2As.gov.zm) | [flocker](https://ransomwatch.telemetry.ltd/#/profiles?id=flocker) |
-| 2025-02-12 | [`The Brown & Hurley Group`](https://google.com/search?q=The+Brown+%26+Hurley+Group) | [lynx](https://ransomwatch.telemetry.ltd/#/profiles?id=lynx) |
